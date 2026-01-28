@@ -197,10 +197,10 @@ The findings reinforce the importance of female education while highlighting the
 ---
 
 ## 👤 Author
-**Muskan Jangir**  
-Aspiring Data Scientist  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-linkedin
+**Name:** Muskan Jangir   
+**Role:** Data Analyst Intern    
+**GitHub:** https://github.com/muskanjangir  
+**LinkedIn:** https://www.linkedin.com/in/muskan-jangir  
 
 
 
