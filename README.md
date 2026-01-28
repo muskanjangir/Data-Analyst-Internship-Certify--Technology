@@ -81,7 +81,6 @@ The internship was structured into **three levels**, progressing from foundation
 - SQL  
 - Excel  
 - Matplotlib & Seaborn  
-- Power BI / Tableau  
 - Jupyter Notebook  
 
 
@@ -102,10 +101,10 @@ This project was completed as part of the **Data Analyst Internship at Certify T
 ---
 
 ## 👤 Author
-**Name:** Muskan Jangir 
-**Role:** Data Analyst Intern  
-**GitHub:** https://github.com/muskanjangir
-**LinkedIn:** https://www.linkedin.com/in/muskan-jangir
+**Name:** Muskan Jangir   
+**Role:** Data Analyst Intern    
+**GitHub:** https://github.com/muskanjangir  
+**LinkedIn:** https://www.linkedin.com/in/muskan-jangir  
 
 
 
